@@ -8,7 +8,7 @@ CREATE TABLE users(
    user_id INT AUTO_INCREMENT,
    user_name VARCHAR(50) NOT NULL,
    user_email VARCHAR(255) NOT NULL,
-   user_pass CHAR(60) NOT NULL,
+   user_pass VARCHAR(255) NOT NULL,
    group_id INT NOT NULL,
    PRIMARY KEY(user_id),
    UNIQUE(user_name),
