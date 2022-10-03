@@ -1,0 +1,14 @@
+{
+    "name": "sora-mukai/utilisateurs-2204",
+    "description": "Projet utilisateur DWWM2204",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sora-mukai",
+            "email": "facqueur.gatien@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
