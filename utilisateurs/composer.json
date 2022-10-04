@@ -9,6 +9,11 @@
             "email": "facqueur.gatien@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Users\\": ""
+        }
+    },
     "minimum-stability": "stable",
     "require": {}
 }
