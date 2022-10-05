@@ -9,7 +9,6 @@ class User
     public string $user_email;
     public string $user_pass;
     public string $user_group_id;
-    public static int $id_ai=0;
 
     public function __construct(int $_user_id , string $_user_name ,string $_user_email , string $_user_pass , int $_user_group_id)
     {
